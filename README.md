@@ -61,3 +61,4 @@ Not used unless ISLFD is overwritten, alternate surface stability  corrections
 
 
 The documentation for CLASSIC (the CLASS with biogeochemical cycling) contains details for the non-lake surface components of the model.  The documentation can be found here:  https://gitlab.com/cccma/classic/-/tree/master?ref_type=heads
+The legacy file names help: https://gitlab.com/cccma/classic/-/blob/master/documentation/legacyFiles.md?ref_type=heads
